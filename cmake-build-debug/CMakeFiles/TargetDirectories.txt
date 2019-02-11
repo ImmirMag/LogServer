@@ -1,0 +1,3 @@
+/home/immir/Dev/C or C++/C++/InfoServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/immir/Dev/C or C++/C++/InfoServer/cmake-build-debug/CMakeFiles/InfoServer.dir
+/home/immir/Dev/C or C++/C++/InfoServer/cmake-build-debug/CMakeFiles/edit_cache.dir
